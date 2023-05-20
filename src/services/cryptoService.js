@@ -21,7 +21,7 @@ async function popularCryptos() {
     return await cryptos.slice(0, 30);
 }
 
-module.exports = {
+export default {
     allCryptos,
     popularCryptos,
 }
