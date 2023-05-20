@@ -1,0 +1,38 @@
+table th,
+td {
+    text-align: left;
+    padding: 1rem 5rem 1rem 5rem;
+
+}
+
+table td {
+    border-top: 0.1rem solid #f5f6f9;
+}
+
+
+.table-title{
+    text-align: center;
+    margin: 2rem;
+    font-size:30px;
+}
+
+
+.text span,
+td,
+p {
+    margin: 0px;
+    font-weight: 600;
+}
+
+table {
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    padding-bottom: 1rem;
+    border-collapse: collapse;
+}
+
+
+span {
+    display: block;
+}

@@ -1,0 +1,48 @@
+.change {
+    color: green;
+}
+
+.negative {
+    color: red;
+}
+.name .img {
+    padding-right: 0.5rem;
+}
+.text span,
+.price {
+    color: #5d667b;
+}
+
+
+.name {
+    display: flex;
+    text-align: left;
+    align-items: center;
+}
+.symbol{
+    display: block; 
+}
+
+
+.arrow {
+    display: inline;
+    margin-left: 0.5rem;
+}
+
+.up {
+    color: green;
+}
+
+.down {
+    color: red;
+}
+
+.tbody:hover {
+    background-color: #e7f5ff;
+}
+.img img {
+    display: inline;
+    width: 30px;
+
+}
+
