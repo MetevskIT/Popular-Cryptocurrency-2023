@@ -1,7 +1,7 @@
 {
-  "homepage": "https://metevskit.github.io/popular-cryptocurrency-2023",
   "name": "popular-cryptocurrency",
   "version": "0.1.0",
+  "homepage": "https://metevskit.github.io/popular-cryptocurrency-2023",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
