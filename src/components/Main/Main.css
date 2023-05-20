@@ -36,3 +36,142 @@ table {
 span {
     display: block;
 }
+
+@media screen and (max-width: 1300px) {
+    table th,
+    td {
+        text-align: left;
+        padding: 0.5rem 2rem 0.5rem 2rem;
+    
+    }
+    
+    table td {
+        border-top: 0.1rem solid #f5f6f9;
+    }
+    
+    
+    .table-title{
+        text-align: center;
+        margin: 2rem;
+        font-size:20px;
+    }
+    
+    table {
+        margin: auto;
+        background-color: white;
+        border-radius: 5px;
+        padding-bottom: 1rem;
+        border-collapse: collapse;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    table th,
+    td {
+        text-align: left;
+        padding: 0.5rem 1.5rem 0.5rem 1.4rem;
+    
+    }
+    
+    table td {
+        border-top: 0.1rem solid #f5f6f9;
+    }
+    
+    .table-title{
+        text-align: center;
+        margin: 2rem;
+        font-size:20px;
+    }
+    
+    table {
+        margin: auto;
+        background-color: white;
+        border-radius: 5px;
+        padding-bottom: 1rem;
+        border-collapse: collapse;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    table th,
+    td {
+        text-align: left;
+        padding: 0.4rem 1.1rem 0.4rem 0.7rem;
+    
+    }
+    
+    table td {
+        border-top: 0.1rem solid #f5f6f9;
+    }
+    
+    .table-title{
+        text-align: center;
+        margin: 2rem;
+        font-size:20px;
+    }
+    
+    table {
+        margin: auto;
+        background-color: white;
+        border-radius: 5px;
+        padding-bottom: 1rem;
+        border-collapse: collapse;
+    }
+    
+}
+
+@media screen and (max-width: 600px) {
+    table th,
+    td {
+        text-align: left;
+        padding: 0.3rem 0.6rem 0.3rem 0.4rem;
+    
+    }
+    
+    table td {
+        border-top: 0.1rem solid #f5f6f9;
+    }
+    
+    .table-title{
+        text-align: center;
+        margin: 1.5rem;
+        font-size:18px;
+    }
+    
+    table {
+        margin: auto;
+        background-color: white;
+        border-radius: 5px;
+        padding-bottom: 1rem;
+        border-collapse: collapse;
+    }
+    
+}
+@media screen and (max-width: 450px) {
+    table th,
+    td {
+        text-align: left;
+        padding: 0.2rem 0.4rem 0.2rem 0.3rem;
+    
+    }
+    
+    table td {
+        border-top: 0.1rem solid #f5f6f9;
+    }
+    
+    .table-title{
+        text-align: center;
+        margin: 1rem;
+        font-size:16px;
+    }
+    
+    table {
+        margin: auto;
+        background-color: white;
+        border-radius: 5px;
+        padding-bottom: 1rem;
+        border-collapse: collapse;
+    }
+    
+}
